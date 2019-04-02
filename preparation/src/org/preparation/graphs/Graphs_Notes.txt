@@ -1,0 +1,25 @@
+Graph Types
+
+- Directed/undirected
+-
+
+
+What is the Degree?
+ Delta g - Degree of a Grpah
+ Delta i - Outdegree of a vertex
+
+AdjacencyList   - space - V+E
+AdjacencyMatrix - space - v^2
+
+UnionFind
+
+Sedgewick Union/find Video
+
+Topological Sort
+ - Can only done in DAG - Directed Acyclic Graph
+ -
+
+
+
+
+
